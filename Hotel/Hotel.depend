@@ -1,0 +1,946 @@
+# depslib dependency file v1.0
+1669343241 source:e:\homework\programozás\nhf\hotel\main.c
+	<SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	"struktura.h"
+	"megjelenites.h"
+	"fajladatkezeles.h"
+	"eventek.h"
+	"debugmalloc.h"
+
+1518375510 d:\apps\codeblocks\mingw\include\sdl2\sdl2_gfxprimitives.h
+	<math.h>
+	"SDL.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\begin_code.h
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\close_code.h
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 d:\apps\codeblocks\mingw\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1670230825 source:e:\homework\programozás\nhf\hotel\megjelenites.c
+	<SDL.h>
+	<SDL2_gfxPrimitives.h>
+	<SDL_ttf.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"fajladatkezeles.h"
+	"megjelenites.h"
+	"debugmalloc.h"
+
+1669404111 e:\homework\programozás\nhf\hotel\megjelenites.h
+	<stdbool.h>
+	"struktura.h"
+
+1547322290 d:\apps\codeblocks\mingw\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1669409418 source:e:\homework\programozás\nhf\hotel\eventek.c
+	<SDL.h>
+	<SDL2_gfxPrimitives.h>
+	<SDL_ttf.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<stdio.h>
+	"felhasznalomenu.h"
+	"megjelenites.h"
+	"fajladatkezeles.h"
+	"bejelentkezesmenu.h"
+	"debugmalloc.h"
+
+1669410304 source:e:\homework\programozás\nhf\hotel\fajladatkezeles.c
+	<SDL.h>
+	<SDL2_gfxPrimitives.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"fajladatkezeles.h"
+	"megjelenites.h"
+	"felhasznalomenu.h"
+	"debugmalloc.h"
+
+1669397395 e:\homework\programozás\nhf\hotel\fajladatkezeles.h
+	<stdbool.h>
+	<stdio.h>
+	"struktura.h"
+
+1669343069 e:\homework\programozás\nhf\hotel\eventek.h
+	<stdbool.h>
+	"struktura.h"
+
+1667148281 e:\homework\programozás\nhf\hotel\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1669409418 source:e:\homework\programozás\nhf\hotel\bejelentkezesmenu.c
+	<SDL.h>
+	<SDL2_gfxPrimitives.h>
+	<SDL_ttf.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<stdio.h>
+	"megjelenites.h"
+	"fajladatkezeles.h"
+	"eventek.h"
+	"bejelentkezesmenu.h"
+	"debugmalloc.h"
+
+1669343069 e:\homework\programozás\nhf\hotel\bejelentkezesmenu.h
+	"struktura.h"
+
+1669409597 source:e:\homework\programozás\nhf\hotel\felhasznalomenu.c
+	<SDL.h>
+	<SDL2_gfxPrimitives.h>
+	<SDL_ttf.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<stdio.h>
+	"fajladatkezeles.h"
+	"felhasznalomenu.h"
+	"megjelenites.h"
+	"debugmalloc.h"
+
+1669409418 e:\homework\programozás\nhf\hotel\felhasznalomenu.h
+	"struktura.h"
+
+1669337279 source:c:\projects\nhf\hotel\bejelentkezesmenu.c
+	<SDL.h>
+	<SDL2_gfxPrimitives.h>
+	<SDL_ttf.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<stdio.h>
+	"megjelenites.h"
+	"fajladatkezeles.h"
+	"eventek.h"
+	"bejelentkezesmenu.h"
+
+1669343069 c:\projects\nhf\hotel\megjelenites.h
+	<stdbool.h>
+	"struktura.h"
+
+1669343069 c:\projects\nhf\hotel\fajladatkezeles.h
+	<stdbool.h>
+	<stdio.h>
+	"struktura.h"
+
+1669343069 c:\projects\nhf\hotel\eventek.h
+	<stdbool.h>
+	"struktura.h"
+
+1669343069 c:\projects\nhf\hotel\bejelentkezesmenu.h
+	"struktura.h"
+
+1669341142 source:c:\projects\nhf\hotel\eventek.c
+	<SDL.h>
+	<SDL2_gfxPrimitives.h>
+	<SDL_ttf.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<stdio.h>
+	"felhasznalomenu.h"
+	"megjelenites.h"
+	"fajladatkezeles.h"
+	"bejelentkezesmenu.h"
+
+1669343069 c:\projects\nhf\hotel\felhasznalomenu.h
+	"struktura.h"
+
+1669335590 source:c:\projects\nhf\hotel\fajladatkezeles.c
+	<SDL.h>
+	<SDL2_gfxPrimitives.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"fajladatkezeles.h"
+	"megjelenites.h"
+	"felhasznalomenu.h"
+	"debugmalloc.h"
+
+1667148281 c:\projects\nhf\hotel\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1669341421 source:c:\projects\nhf\hotel\felhasznalomenu.c
+	<SDL.h>
+	<SDL2_gfxPrimitives.h>
+	<SDL_ttf.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<stdio.h>
+	"fajladatkezeles.h"
+	"felhasznalomenu.h"
+
+1669343241 source:c:\projects\nhf\hotel\main.c
+	<SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	"struktura.h"
+	"megjelenites.h"
+	"fajladatkezeles.h"
+	"eventek.h"
+	"debugmalloc.h"
+
+1669341298 source:c:\projects\nhf\hotel\megjelenites.c
+	<SDL.h>
+	<SDL2_gfxPrimitives.h>
+	<SDL_ttf.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"fajladatkezeles.h"
+	"megjelenites.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\begin_code.h
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\close_code.h
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\apps\codeblocks\mingw\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1518375510 c:\apps\codeblocks\mingw\include\sdl2\sdl2_gfxprimitives.h
+	<math.h>
+	"SDL.h"
+
+1547322290 c:\apps\codeblocks\mingw\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1669343116 c:\projects\nhf\hotel\struktura.h
+	<stdbool.h>
+
+1669343116 e:\homework\programozás\nhf\hotel\struktura.h
+	<stdbool.h>
+
